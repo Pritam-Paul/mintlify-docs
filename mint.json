@@ -15,13 +15,15 @@
       "to": "#07C983"
     }
   },
+  
   "navigation": [
   {
     "group": "Getting Started",
     "version": "v1",
-    "pages": [...]
+    "pages": []
   }
 ],
+  
   "topbarLinks": [
     {
       "name": "Support",
